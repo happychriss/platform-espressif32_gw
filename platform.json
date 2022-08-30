@@ -18,7 +18,7 @@
     "type": "git",
     "url": "https://github.com/happychriss/platform-espressif32_gw.git"
   },
-  "version": "2.0.5",
+  "version": "2.0.4+1",
   "frameworks": {
     "arduino": {
       "package": "framework-arduinoespressif32",
